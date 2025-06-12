@@ -72,5 +72,5 @@ Each folder contains X-ray images classified into:
 
 1. Clone the repo:
  ```bash
- git clone https://github.com/your-username/pneumonia-xray-detector.git
+ git clone https://github.com/WAQUAR-AHMED/X-Ray-CNN.git
  cd pneumonia-xray-detector
