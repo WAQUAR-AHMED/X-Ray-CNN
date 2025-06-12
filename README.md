@@ -13,7 +13,7 @@ This project uses a Convolutional Neural Network (CNN) to classify chest X-ray i
 
 This project uses a Convolutional Neural Network (CNN) to detect **Pneumonia** from chest X-ray images. The model was trained on the widely-used Kaggle `chest_xray` dataset and deployed as a web application using Gradio and Hugging Face Spaces.
 
-👉 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/your-username/your-space-name)**  
+👉 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/waquarahmed/X-Ray)**  
 *Upload a chest X-ray and get instant diagnosis (Normal / Pneumonia).*
 
 ---
